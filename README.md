@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Richard1407
-- 👀 I’m interested in Coumputer Science and some Physics and little bit Chemistry too..
-- 🌱 I’m currently learning Python and some Java
+- 👀 I’m interested in Coumputer Science and a AI Enthusiastic
+- 🌱 I’m currently leared Python, Java, C, C++, MySQL and Mongo DB
 - 💞️ I’m looking to collaborate on Codes and other stuffs
 
 <!---
