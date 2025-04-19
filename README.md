@@ -1,59 +1,86 @@
-# 💻 Sherwin Richard | Tech Artisan ⚙️ | Gamer by Passion 🎮 | AI Enthusiast 🤖 | Faith-Driven 💫
+<h1 align="center">👨‍💻 Sherwin Richard Ranjith</h1>
 
-> *"Code with fire, create with soul, live with purpose."*
+<p align="center">
+  <strong>AI & ML Enthusiast | Full-Stack Developer | Cybersecurity Explorer | Creative Technologist</strong><br>
+  <em>“Turning bold ideas into digital reality — one line of code at a time.”</em>
+</p>
 
-## 👋 Who Am I?
-
-Hey there! I'm **Sherwin**, a B-Tech Computer Science Engineer with a specialization in **Artificial Intelligence & Machine Learning** — blending logic with creativity to craft intelligent solutions.
-
-- 🎮 Hardcore PC & Mobile Gamer | FPS, RPGs, Indie — I dive deep into worlds.
-- 🛠️ Passionate about **Editing**, **Creative Coding**, and **Visual Artistry**.
-- 👨‍💻 Fluent in Python, JavaScript, Node.js, and all things futuristic.
-- ✝️ Faith is core. Jesus is King.
-- 🕵️‍♂️ Treading the thin line between **ethical** and **unethical hacking**.
-- 🗣️ I love connecting, conversing, and collaborating — let’s vibe!
-
----
-
-## 🚀 My Stack & Tech Flow
-
-| Domain | Tools & Tech |
-|-------|--------------|
-| 🔮 AI/ML | Python, Scikit-learn, TensorFlow, Keras |
-| 🌐 Web Dev | HTML, CSS, JavaScript, Node.js, Express |
-| 🛢️ DB | MySQL, MongoDB |
-| 🖥️ Dev Environment | VS Code, Git, Postman |
-| 🧠 Other Interests | Ethical Hacking, Reverse Engineering, Video Editing |
+<p align="center">
+  <a href="https://www.linkedin.com/in/sherwin-richard-ranjith-7002482b1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/Sherwin0095" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:sherwinrichardofficial@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/sherwin0095/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🔧 Currently Working On
+### 🚀 About Me
 
-- 🧠 Deep-diving into AI/ML projects with real-world impact  
-- 🛡️ Exploring cybersecurity and pen-testing tools  
-- 📊 Visualizing state-wise city mapping in India  
-- 🔄 Automating workflows and systems using Node.js + MySQL  
-- 🧩 Developing intuitive UIs with powerful backends  
+Greetings! I'm **Sherwin Richard**, a B.Tech Computer Science Engineer with a passion for harnessing **Artificial Intelligence**, crafting **full-stack experiences**, and exploring the depths of **ethical hacking**. Whether it's developing systems that *think*, building backends that *scale*, or editing reels that *vibe*, I bring **precision**, **passion**, and **purpose** to the table.
 
----
-
-## 🎯 What Drives Me?
-
-> *"A blend of divine purpose and digital mastery. Every line of code I write is a verse, every bug I fix is a battle won."*
+- 💡 Lover of big ideas and clean architecture.
+- ⚙️ Obsessed with problem-solving and code optimization.
+- 🎮 Casual gamer with a competitive edge.
+- 🎶 Mashup music explorer — Tamil, Malayalam, English vibes.
+- ✝️ Faith-driven with a purpose rooted in Jesus.
 
 ---
 
-## 📫 Connect With Me
+### 🧠 Tech Arsenal
 
-- 🌐 Portfolio (coming soon)
-- 🐙 GitHub: [Sherwin-Richard](https://github.com/Sherwin-Richard)
-- 📷 Instagram (if public)
-- 💌 Drop a message — always down for a tech talk.
+| 💻 **Domain** | 🔧 **Stack & Tools** |
+|--------------|----------------------|
+| Languages | Python, JavaScript, C++, Java |
+| Web Dev | HTML5, CSS3, React.js, Node.js, Express |
+| Databases | MySQL, MongoDB |
+| AI/ML | NumPy, Pandas, TensorFlow, Scikit-learn |
+| Tools | Git, GitHub, VS Code, Postman, Figma |
+| Cybersecurity | Kali Linux, Burp Suite, Wireshark |
 
 ---
 
-## 🧠 Fun Fact
+### 📊 GitHub Stats That Speak
 
-> I believe the future belongs to the curious — the ones who blend tech, trends, and truth.  
-Let’s build a future that’s smart, soulful, and maybe even a little chaotic. 💥
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sherwin0095&show_icons=true&theme=tokyonight&hide_border=true" alt="Sherwin's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sherwin0095&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
+---
+
+### 🔭 Current Projects
+
+- ⚔️ Developing backend systems with Express + MySQL
+- 🧠 AI-powered models for smart predictions & analytics
+- 🛡️ Practicing ethical hacking and penetration testing
+- 🗺️ Visualizing Indian city data with state-wise logic
+- 🎨 UI/UX interfaces inspired by modern Neumorphism & Material Design
+
+---
+
+### 📌 Career Objective
+
+> *"To become a leading force in AI development, delivering intelligent systems that empower lives and enterprises.  
+To defend the digital world through ethical cybersecurity, while continuously learning and evolving."*
+
+---
+
+### 🌐 Let's Connect
+
+- 📬 Email: [sherwinrichardofficial@gmail.com](mailto:sherwinrichardofficial@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/sherwin-richard-ranjith-7002482b1](https://www.linkedin.com/in/sherwin-richard-ranjith-7002482b1)
+- 📸 Instagram: [@sherwin0095](https://www.instagram.com/sherwin0095/)
+- 🐙 GitHub: [Sherwin0095](https://github.com/Sherwin0095)
+
+---
+
+### ⚡ Fun Insight
+
+> *“Coding is my canvas, hacking is my puzzle, gaming is my dojo.  
+Creativity fuels me. Discipline shapes me. Faith sustains me.”*
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=150&section=footer" />
+</p>
